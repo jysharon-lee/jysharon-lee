@@ -16,7 +16,9 @@ Currently building projects and seeking for internship opportunities
 ## 🛠️ Tech Stack
 
 Languages: Python • Java • JavaScript • SQL •  C • C# • C++ • Kotlin •  HTML • CSS
+
 Tools: Git • GitHub • Notion • VS Code • Figma • R Studio
+
 Interests: AI/ML • Data Analytics • Automation • Web Development
 
 ## 📃 Featured Projects
