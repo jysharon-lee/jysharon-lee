@@ -56,13 +56,21 @@ _________________________________________________________
 
 ## 💖 Leadership | Volunteering and Community Service
 I've been a volunteer at a local Buddhist Youth Section for almost 7 years now, where I get myself involved in:
+
 • Youth camps and leadership development
+
 • Buddhist/cultural education
+
 • Community service and volunteering
+
 • Organising events and activities for teenagers and young adults
+
 • Building discipline, teamwork, and values through camps/programs
+
 • Cultural exchange and community engagement
+
 **My Past & Current Roles in the Organization**
+
 - Youth Section Council Member (Current)
 - Youth Fellowship Department Co-Director (Current)
 - Organizing Chairman: Annual Mooncake Festival Event (Past)
