@@ -29,17 +29,17 @@ Interests: AI/ML • Data Analytics • Automation • Web Development
 Every time I built a personal project I would uplaod them on GitHub, feel free to refer them if you are building similar projects :) Here are some projects that I'm really proud of:
 
 ### AI Flood Prediction Model
-_________________________________________________________
+
 🔗 https://github.com/jysharon-lee/AI-Flood-Prediction-Model
 - A machine learning model built for predicting flood events across East Malaysia
 
 ### Wafer Defect Pattern Classifier
-_________________________________________________________
+
 🔗 https://github.com/jysharon-lee/Wafer-Defect-Classifier
 - A machine learning pipeline that classifies semiconductor wafer defects using real fabrication sensor data
 
 ### SPC Monitoring Dashboard — Wafer Fabrication Process
-_________________________________________________________
+
 🔗 https://github.com/jysharon-lee/SPC-Monitoring-Dashbaord
 - A Statistical Process Control (SPC) monitoring pipeline built in R that detects out-of-control process signals across real semiconductor fabrication sensor data
 
