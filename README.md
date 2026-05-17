@@ -15,7 +15,7 @@ Currently building projects and seeking for internship opportunities
 
 ## 🛠️ Tech Stack
 
-Languages: Python • JavaScript • SQL •  C • C# • C++ • Kotlin •  HTML • CSS
+Languages: Python • JavaScript • SQL •  C • C# • C++ • Kotlin •  HTML • CSS • R
 
 Tools: Git • GitHub • Notion • VS Code • Figma • R Studio
 
