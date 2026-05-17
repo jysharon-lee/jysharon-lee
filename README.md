@@ -19,7 +19,7 @@ Currently building projects and seeking for internship opportunities
 
 Languages: Python • JavaScript • SQL •  C • C# • C++ • Kotlin •  HTML • CSS • R
 
-Tools: Git • GitHub • Notion • VS Code • Figma • R Studio
+Tools: Git • GitHub • Notion • VS Code • Figma • R Studio • Power BI
 
 Interests: AI/ML • Data Analytics • Automation • Web Development
 
