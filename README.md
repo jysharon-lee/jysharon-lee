@@ -80,35 +80,55 @@ I've been a volunteer at a local Buddhist Youth Section for almost 7 years now, 
 ------------------------------------------------------------------------------------------------
 
 ## 🤝 If you are interested in collaborating for...
+
 • Hackathons
+
 • AI/ML | Embedded & Automation | Full-stack | Data Analytics Projects
+
 • Notion PARA Templates
+
 • Ironman triathlon/Endurance Training (?)
+
 • Anything that helps me (and you✨) grow 
+
 **Feel free to mail me at : 104381327@students.swinburne.edu.my**
 
 ------------------------------------------------------------------------------------------------
 
 ## 📫 How to haunt (reach out to) me:
+
 Email (school): 104381327@students.swinburne.edu.my
+
 LinkedIn: www.linkedin.com/in/sharon-jia-yi-lee-211251358
+
 Strava: Sharon Lee (username)
 
 ------------------------------------------------------------------------------------------------
 
 ## ⚡ Interests:
+
 • Build coding projects (mail me if you have interesting coding project ideas to share!)
+
 • Distance running
+
 • Swimming
+
 • Reading non-fiction books
+
   -> Currently reading "Thinking Fast and Slow" by Daniel Kahneman
+  
 • Overthinking :D
 
 ------------------------------------------------------------------------------------------------
 
 ## 👽 Fun Facts:
+
 - I can spend more time organising my Notion workspace than actually doing the task… but somehow it still works
+  
 - I only read Non-fictions
+  
 - I ABSOLUTELY HATE PEANUTS (fight me)
+  
 - I'm a big fan of cilantros
+  
 - **VO2 max of 61⭐⭐⭐**
