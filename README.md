@@ -13,6 +13,8 @@ Currently building projects and seeking for internship opportunities
 - Experimenting with productivity systems using Notion (Current candidate to Notion Campus Leader 2026!)
 - Training for Ironman 70.3 (why only suck at 1 sport when you can suck at 3?)
 
+------------------------------------------------------------------------------------------------
+
 ## 🛠️ Tech Stack
 
 Languages: Python • JavaScript • SQL •  C • C# • C++ • Kotlin •  HTML • CSS • R
@@ -20,6 +22,8 @@ Languages: Python • JavaScript • SQL •  C • C# • C++ • Kotlin •  H
 Tools: Git • GitHub • Notion • VS Code • Figma • R Studio
 
 Interests: AI/ML • Data Analytics • Automation • Web Development
+
+------------------------------------------------------------------------------------------------
 
 ## 📃 Featured Projects
 Every time I built a personal project I would uplaod them on GitHub, feel free to refer them if you are building similar projects :) Here are some projects that I'm really proud of:
@@ -39,12 +43,16 @@ _________________________________________________________
 🔗 https://github.com/jysharon-lee/SPC-Monitoring-Dashbaord
 - A Statistical Process Control (SPC) monitoring pipeline built in R that detects out-of-control process signals across real semiconductor fabrication sensor data
 
-## Incoming Project: Stay Tuned!
+------------------------------------------------------------------------------------------------
+
+## Incoming Projects: Stay Tuned!
 ### 🏢 Internify - Web App for Job Hunting
 - A web application that acts as a smart internship matching & tracking platform
 _________________________________________________________
 ### 🚗 Formula 1 Finishing Position Predictor
 - A machine learning model using historical data to predict the outcome of a Grand Prix using Support Vector Machines (SVM)
+
+------------------------------------------------------------------------------------------------
 
 ## 💖 Leadership | Volunteering and Community Service
 I've been a volunteer at a local Buddhist Youth Section for almost 7 years now, where I get myself involved in:
@@ -61,6 +69,8 @@ I've been a volunteer at a local Buddhist Youth Section for almost 7 years now, 
 - Organizing Chairman: 16th District Level Inter-secondary School Telematch 2025 (Past)
 - Vice Camp Leader: 17th Youth Camp 2023 (Past)
 
+------------------------------------------------------------------------------------------------
+
 ## 🤝 If you are interested in collaborating for...
 • Hackathons
 • AI/ML | Embedded & Automation | Full-stack | Data Analytics Projects
@@ -69,10 +79,14 @@ I've been a volunteer at a local Buddhist Youth Section for almost 7 years now, 
 • Anything that helps me (and you✨) grow 
 **Feel free to mail me at : 104381327@students.swinburne.edu.my**
 
+------------------------------------------------------------------------------------------------
+
 ## 📫 How to haunt (reach out to) me:
 Email (school): 104381327@students.swinburne.edu.my
 LinkedIn: www.linkedin.com/in/sharon-jia-yi-lee-211251358
 Strava: Sharon Lee (username)
+
+------------------------------------------------------------------------------------------------
 
 ## ⚡ Interests:
 • Build coding projects (mail me if you have interesting coding project ideas to share!)
@@ -81,6 +95,8 @@ Strava: Sharon Lee (username)
 • Reading non-fiction books
   -> Currently reading "Thinking Fast and Slow" by Daniel Kahneman
 • Overthinking :D
+
+------------------------------------------------------------------------------------------------
 
 ## 👽 Fun Facts:
 - I can spend more time organising my Notion workspace than actually doing the task… but somehow it still works
