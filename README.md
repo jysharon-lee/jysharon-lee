@@ -46,8 +46,8 @@ Every time I built a personal project I would uplaod them on GitHub, feel free t
 ------------------------------------------------------------------------------------------------
 
 ## Incoming Projects: Stay Tuned!
-### 🏢 Internify - Web App for Job Hunting
-- A web application that acts as a smart internship matching & tracking platform
+### 🧏‍♂️ SignSpeak: Real-Time Sign Language Translator
+- An edge-AI computer vision application that tracks hand landmarks via webcam to instantly translate sign language into English text, complete with automated Text-to-Speech (TTS) audio output.
 _________________________________________________________
 ### 🚗 Formula 1 Finishing Position Predictor
 - A machine learning model using historical data to predict the outcome of a Grand Prix using Support Vector Machines (SVM)
