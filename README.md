@@ -49,7 +49,7 @@ Interests: AI/ML • Data Analytics • Automation • Web Development • Embed
 ### 🧏‍♂️ SignSpeak: Real-Time Sign Language Translator
 - An edge-AI computer vision application that tracks hand landmarks via webcam to instantly translate sign language into English text, complete with automated Text-to-Speech (TTS) audio output.
 
-### 🤝 Let-Me-Hold-Your-Hand: ML101
+### 🤝 ML For Fun
 - An educational repository featuring a collection of basic to intermediate Machine Learning and Deep Learning projects.
 - Each project includes a detailed, step-by-step walkthrough designed to help beginners reference, learn, and build ML models from scratch.
 
