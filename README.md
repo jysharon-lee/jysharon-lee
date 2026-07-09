@@ -49,10 +49,6 @@ Interests: AI/ML • Data Analytics • Automation • Web Development • Embed
 ### 🧏‍♂️ Nasopharyngeal Carcinoma Risk Predictor with Analytical Dashboard
 - Machine Learning model predicting NPC staging and 5-year survival from real clinical/MRI data, with an interactive dashboard for explainable predictions and risk trend analysis.
 
-### 🤝 ML For Fun
-- An educational repository featuring a collection of basic to intermediate Machine Learning and Deep Learning projects.
-- Each project includes a detailed, step-by-step walkthrough designed to help beginners reference, learn, and build ML models from scratch.
-
 ### 🚗 Formula 1  Podium Predictor Plus
 - A machine learning model that combines race outcome prediction + pit stop strategy simulator + safety car probabilities
 
