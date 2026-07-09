@@ -46,15 +46,15 @@ Interests: AI/ML • Data Analytics • Automation • Web Development • Embed
 ------------------------------------------------------------------------------------------------
 
 ## Incoming Projects: Stay Tuned!
-### 🧏‍♂️ SignSpeak: Real-Time Sign Language Translator
-- An edge-AI computer vision application that tracks hand landmarks via webcam to instantly translate sign language into English text, complete with automated Text-to-Speech (TTS) audio output.
+### 🧏‍♂️ Nasopharyngeal Carcinoma Risk Predictor with Analytical Dashboard
+- Machine Learning model predicting NPC staging and 5-year survival from real clinical/MRI data, with an interactive dashboard for explainable predictions and risk trend analysis.
 
 ### 🤝 ML For Fun
 - An educational repository featuring a collection of basic to intermediate Machine Learning and Deep Learning projects.
 - Each project includes a detailed, step-by-step walkthrough designed to help beginners reference, learn, and build ML models from scratch.
 
-### 🚗 Formula 1 Finishing Position Predictor
-- A machine learning model using historical data to predict the outcome of a Grand Prix using Support Vector Machines (SVM)
+### 🚗 Formula 1  Podium Predictor Plus
+- A machine learning model that combines race outcome prediction + pit stop strategy simulator + safety car probabilities
 
 ------------------------------------------------------------------------------------------------
 
