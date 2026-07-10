@@ -46,8 +46,6 @@ Interests: AI/ML • Data Analytics • Automation • Web Development • Embed
 ------------------------------------------------------------------------------------------------
 
 ## Incoming Projects: Stay Tuned!
-### 🧏‍♂️ Nasopharyngeal Carcinoma Risk Predictor with Analytical Dashboard
-- Machine Learning model predicting NPC staging and 5-year survival from real clinical/MRI data, with an interactive dashboard for explainable predictions and risk trend analysis.
 
 ### 🚗 Formula 1  Podium Predictor Plus
 - A machine learning model that combines race outcome prediction + pit stop strategy simulator + safety car probabilities
