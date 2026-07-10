@@ -38,10 +38,10 @@ Interests: AI/ML • Data Analytics • Automation • Web Development • Embed
 🔗 https://github.com/jysharon-lee/Wafer-Defect-Classifier
 - A machine learning pipeline that classifies semiconductor wafer defects using real fabrication sensor data
 
-### SPC Monitoring Dashboard — Wafer Fabrication Process
+### Breast Cancer Predictor Dashboard
 
-🔗 https://github.com/jysharon-lee/SPC-Monitoring-Dashbaord
-- A Statistical Process Control (SPC) monitoring pipeline built in R that detects out-of-control process signals across real semiconductor fabrication sensor data
+🔗 https://github.com/jysharon-lee/Breast-Cancer-Predictor-Dashboard
+- An end-to-end Machine Learning pipeline and interactive clinical dashboard designed to predict 5-year survival rates for breast cancer patients
 
 ------------------------------------------------------------------------------------------------
 
